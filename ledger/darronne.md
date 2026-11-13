@@ -3,7 +3,9 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
-- 2026-11-13 · darronne · workspace/ship · /install complete (Step 8 skipped: no spreadsheets to migrate). Handoff written: next session starts with portfolio links, then proposals
+- 2026-11-13 · darronne · workspace/ship · /install complete: Step 8 skipped (Darronne's choice), Step 9 walkthrough done, Step 10 health check all green
+- 2026-11-13 · darronne · workspace/note · Correction: Steps 8-10 were marked done too early; reopened and run properly with Darronne
+- 2026-11-13 · darronne · workspace/build · Handoff written: next session starts with portfolio links, then proposals
 - 2026-11-13 · darronne · sales/decision · No proposals during setup; furniture draft parked until next session
 - 2026-11-13 · darronne · premium-furniture-uae/ship · Proposal drafted: AI Video Creator for Premium Furniture Brand, $20/hr ($50 per 15 s video); awaiting portfolio links before submit
 - 2026-11-13 · darronne · sales/research · /install Step 7: scanned 30 live Upwork jobs, shortlisted 5, skipped sub-$25 budgets and Spanish-fluent roles
