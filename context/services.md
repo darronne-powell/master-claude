@@ -13,6 +13,13 @@
 | Explainer video, 60–90 s | Script, voice-over, visuals, motion graphics, captions | 3–4 days | Fixed | **$130** |
 | Repurposing pack | 5 captioned short clips cut from one long video, webinar or podcast | 2–3 days | Fixed | **$100** |
 | Hook variations | 3 extra hooks on an existing ad (common for Meta testing) | 1 day | Fixed | **$25** |
+| Long-form YouTube, edit-only, 8–12 min | Client supplies script + voice-over; AI visuals/B-roll, captions, music, thumbnail-ready frame | 3–4 days | Fixed | **$150** |
+| Long-form YouTube, full production, 5–10 min | Script, AI voice-over, AI-generated footage, edit, captions, music | 4–5 days | Fixed | **$300** |
+| Long-form YouTube, premium cinematic, 5–10 min | Full production with realistic AI characters/products, consistent across scenes | 5 days | Fixed | **$450–600** |
+
+**Turnaround depends on length** (Darronne, 2026-11-13): short videos 2–3 days, longer ones up to 5 days. Long-form beyond 10 minutes: +$30 per extra minute (full production) or +$12 per extra minute (edit-only). 4+ long-form videos a month: 10% off.
+
+Long-form pricing set 2026-11-13 from Upwork posts (faceless channels at $25–40/video for simple stills are below the floor and skipped; real long-form budgets $250–850) and 2026 guides ($100–500 basic edit, $500–1,500 full 10–20 min production). Positioned mid-market: Darronne is not a beginner on long-form quality.
 
 ## Monthly packages (retainers)
 
@@ -39,9 +46,8 @@ Set up on Upwork as a fixed-price contract with one milestone per month (or per 
 
 ## Payment terms
 
-- **Upwork only, always.** Fixed-price milestones funded in escrow before work starts. No payment, contact or contracts outside Upwork (Upwork's terms forbid it, and it removes payment protection).
-- Hourly contracts only via Upwork's tracked time.
-- Larger jobs (over $150): split into 2 milestones, concept + first draft / final delivery.
+- **The one rule: every payment happens on Upwork.** Any Upwork contract type is fine: fixed-price (one payment or several milestones) or hourly. What's never allowed is payment, or a request for payment, outside Upwork (Upwork's terms forbid it, and it removes payment protection). Never suggest it to a client, and decline politely if a client suggests it. (Clarified by Darronne 2026-11-13: "Upwork milestones" means "Upwork only", not a specific contract type.)
+- Fixed-price is the default for one-off videos. Splitting larger jobs (over $150) into 2 milestones (first draft / final delivery) is a suggestion, not a requirement.
 
 ## Raise plan
 

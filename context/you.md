@@ -21,7 +21,7 @@
 
 - **Solo.** Every stage in-house, no subcontractors (`context/collaborators.md`).
 - **30+ hours a week**, full-time, will scale up as work comes in.
-- First drafts in 48–72 hours, two revision rounds.
+- Turnaround depends on length: short videos 2–3 days, longer ones up to 5 days. Two revision rounds.
 - Communication with Claude: plain and direct; often dictated, so read for meaning over exact wording.
 
 ## What you want from this workspace

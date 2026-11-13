@@ -4,7 +4,7 @@
 
 ## What it is
 
-A solo AI video production practice. Darronne turns ideas, scripts and product photos into ready-to-post videos (ads, UGC-style content, explainers, avatar videos, short-form clips) in 2–3 days, with no crew, filming or studio. Sold through Upwork only, fixed-price milestones.
+A solo AI video production practice. Darronne turns ideas, scripts and product photos into ready-to-post videos (ads, UGC-style content, explainers, avatar videos, short-form clips) in 2–3 days, with no crew, filming or studio. Sold through Upwork only; every payment goes through Upwork (fixed-price or hourly, never off-platform).
 
 ## Who it serves
 
