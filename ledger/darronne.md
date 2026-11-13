@@ -3,6 +3,7 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-13 · darronne · workspace/build · /install Step 4: Git installed, workspace under version control, save point one committed (secrets and private folders verified excluded)
 - 2026-11-13 · darronne · workspace/ship · /install Step 3: fresh session + /prime loaded the practice correctly
 - 2026-11-13 · darronne · workspace/ship · /install Step 2 complete: context readback approved, nothing for private/ yet
 - 2026-11-13 · darronne · workspace/decision · Goals set: $2k/mo minimum, $3k+ target; priorities five-star reviews then first monthly package client; Claude runs job search, proposals, scripts, follow-ups with approval on every send
