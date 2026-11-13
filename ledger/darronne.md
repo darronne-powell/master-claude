@@ -3,6 +3,7 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-13 · darronne · workspace/ship · /install Step 4: private GitHub backup live at github.com/darronne-powell/master-claude
 - 2026-11-13 · darronne · workspace/build · /install Step 4: Git installed, workspace under version control, save point one committed (secrets and private folders verified excluded)
 - 2026-11-13 · darronne · workspace/ship · /install Step 3: fresh session + /prime loaded the practice correctly
 - 2026-11-13 · darronne · workspace/ship · /install Step 2 complete: context readback approved, nothing for private/ yet
