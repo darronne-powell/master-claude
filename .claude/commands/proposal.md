@@ -9,6 +9,7 @@ args: $ARGUMENTS (a job post URL, pasted job text, a client slug, or empty)
 ## FOR CLAUDE
 
 - **Never submit, send or post anything.** Not on Upwork, not on Malt, not by email. The output is a draft file and a copy-ready block. Submitting spends the person's connects, money or reputation, so it is always their click.
+- **Unlisted tools are not a mismatch.** Darronne uses more premium tools than `context/you.md` lists. If a job names a tool that isn't listed, still treat it as a fit; ask Darronne "do you use X?" before the proposal names it, then add it to `context/you.md`.
 - **Ask Darronne for the portfolio pieces to attach before the proposal is final** (video links, samples). Standing instruction from /install, 2026-11-13. Never invent or guess proof.
 - Writing follows `reference/writing-style.md`. No "I hope this message finds you well", no "Je me permets de vous contacter". Open with their problem, not your biography.
 

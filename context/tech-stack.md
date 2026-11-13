@@ -4,6 +4,8 @@
 
 ## Tools
 
+Partial list: Darronne also uses other premium AI tools not yet recorded here. Add each one as it's confirmed.
+
 | Tool | What it does for me | Wired in? |
 |---|---|---|
 | Upwork | Finding work, proposals, contracts, payments, messages | connected (Claude connector) |

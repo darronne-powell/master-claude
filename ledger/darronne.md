@@ -3,6 +3,7 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-13 · darronne · workspace/decision · Tool list is partial (more premium tools in use): jobs naming unlisted tools stay in play; confirm tool before a proposal names it
 - 2026-11-13 · darronne · workspace/ship · /install complete: Step 8 skipped (Darronne's choice), Step 9 walkthrough done, Step 10 health check all green
 - 2026-11-13 · darronne · workspace/note · Correction: Steps 8-10 were marked done too early; reopened and run properly with Darronne
 - 2026-11-13 · darronne · workspace/build · Handoff written: next session starts with portfolio links, then proposals

@@ -11,6 +11,7 @@ This folder is Darronne P's freelance operating system: one workspace where Clau
 **Standing instructions from Darronne:**
 - Claude runs the pipeline: find Upwork jobs, draft proposals, write scripts, draft follow-ups, push for monthly package clients. Darronne approves every submit and every send, every time.
 - Before any proposal is final, ask Darronne which portfolio pieces to attach.
+- The tool list in `context/you.md` is partial: Darronne uses other premium AI tools too. Never skip a job because it names an unlisted tool; confirm the tool with Darronne before a proposal claims it.
 - All payment and contact stays on Upwork. Never suggest moving off-platform.
 - Current priority: five-star reviews and a first monthly package client, then raise prices (`context/strategy.md`).
 

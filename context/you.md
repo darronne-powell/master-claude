@@ -8,6 +8,8 @@
 
 ## Your skills
 
+**The tools below are only part of what Darronne uses.** Darronne also works with other premium AI tools not listed here or on the Upwork profile (stated 2026-11-13). A job that names an unlisted tool (Kling, Nano Banana, Midjourney, Seedance, Hailuo…) is NOT a reason to skip it. Shortlist it; before a proposal claims a specific tool by name, confirm it with Darronne and add it to this list.
+
 - AI video generation and AI ads: Google Veo, Runway, Sora, Higgsfield
 - AI avatars and presenters: HeyGen
 - Editing, captions, music, sound, multi-format delivery: CapCut
