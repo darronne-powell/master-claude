@@ -8,6 +8,8 @@
 
 Upwork org_uid (for the connector): 2109179310816029702.
 
+**Plan:** Freelancer Plus since 2026-11-13 (100 Connects/month, 0% fee on Direct Contracts). Bought 80 extra Connects the same day. Job Success Score went live 2026-11-08. Job alerts are on and arrive in Gmail.
+
 ## Profile gaps (worth fixing, also earn free Connects)
 
 Upwork offers up to 112 free Connects for completing tasks. Profile ones, 10 Connects each: portfolio items, video introduction, linked accounts, certifications, other experiences. A portfolio and a video intro also matter most for winning video jobs; do these first.

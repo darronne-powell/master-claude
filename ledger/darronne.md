@@ -3,6 +3,9 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-13 · darronne · premium-furniture-uae/ship · Proposal drafted: AI Video Creator for Premium Furniture Brand, $20/hr ($50 per 15 s video); awaiting portfolio links before submit
+- 2026-11-13 · darronne · sales/research · /install Step 7: scanned 30 live Upwork jobs, shortlisted 5, skipped sub-$25 budgets and Spanish-fluent roles
+- 2026-11-13 · darronne · workspace/ship · /install Step 5: Gmail and Google Drive connected and tested read-only; Upwork already connected
 - 2026-11-13 · darronne · workspace/ship · /install Step 4: private GitHub backup live at github.com/darronne-powell/master-claude
 - 2026-11-13 · darronne · workspace/build · /install Step 4: Git installed, workspace under version control, save point one committed (secrets and private folders verified excluded)
 - 2026-11-13 · darronne · workspace/ship · /install Step 3: fresh session + /prime loaded the practice correctly

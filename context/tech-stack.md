@@ -14,8 +14,9 @@
 | HeyGen | AI avatars and presenters | not covered (used directly) |
 | CapCut | Editing, captions, formatting | not covered (used directly) |
 | Hootsuite | Social scheduling | not covered |
-| Email (Gmail) | Account email darronnepe@gmail.com | to check in Step 5 |
+| Gmail | Upwork notifications (job alerts, invites, client messages, payments), client email (darronnepe@gmail.com) | connected, tested 2026-11-13 (Upwork mail arrives from donotreply@upwork.com, upwork@email.upwork.com, and `room_…@email.upwork.com` for client messages) |
+| Google Drive | Storing and sharing finished videos, scripts, portfolio | connected, tested 2026-11-13 (folder "AI VIDEO SAMPLE" holds portfolio candidates) |
 
 ## Integration queue
 
-(Step 5 decides. Candidates: Gmail, Google Drive for deliverables.)
+Not used today, available any day: Google Calendar, Canva, Dropbox.
