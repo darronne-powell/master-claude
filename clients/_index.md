@@ -6,6 +6,6 @@ Statuses: `lead` → `proposal` → `active` → `paused` → `done` (or `lost`,
 
 | Client | Slug | Status | Source | Next action | Due | Language |
 |---|---|---|---|---|---|---|
-| Premium furniture brand (UAE) | premium-furniture-uae | proposal | Upwork job 2121182049152846293 | Fill portfolio links + answers, then Darronne submits (22 Connects) | 2026-11-14 | en |
+| Premium furniture brand (UAE) | premium-furniture-uae | proposal | Upwork job 2121182049152846293 | PARKED by Darronne (setup only on 2026-11-13). Revisit next session: check job still open, then portfolio links | | en |
 | Mary A | mary-a | done | Upwork | Ask about repeat work / monthly package | | en |
 | Big Sam INFOTECH | big-sam-infotech | done | Upwork | Ask about repeat work / monthly package | | en |

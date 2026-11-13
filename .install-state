@@ -12,10 +12,11 @@ steps:
   4: done
   5: done
   6: skipped
-  7: pending
-  8: pending
-  9: pending
-  10: pending
+  7: done
+  8: skipped
+  9: done
+  10: done
+complete: yes
 keys: none
 tools: upwork, gmail, google-drive
 runtime: skipped
