@@ -19,6 +19,14 @@ Partial list: Darronne also uses other premium AI tools not yet recorded here. A
 | Gmail | Upwork notifications (job alerts, invites, client messages, payments), client email (darronnepe@gmail.com) | connected, tested 2026-11-13 (Upwork mail arrives from donotreply@upwork.com, upwork@email.upwork.com, and `room_…@email.upwork.com` for client messages) |
 | Google Drive | Storing and sharing finished videos, scripts, portfolio | connected, tested 2026-11-13 (folder "AI VIDEO SAMPLE" holds portfolio candidates) |
 
+## Research stack
+
+| Tool | Job | Status |
+|---|---|---|
+| Firecrawl | Read any website: client brands, competitor pages, PDFs | live 2026-11-14, tested (1,000 credits/mo plan) |
+| Supadata | YouTube/TikTok/Instagram transcripts, YouTube search: break down winning ads | live 2026-11-14, tested (Free, 100 credits/mo) |
+| Apify | TikTok, Instagram, Facebook Ad Library, LinkedIn scraping: competitor ads, brand content | live 2026-11-14, tested (Free, $5 usage/mo) |
+
 ## Integration queue
 
-Not used today, available any day: Google Calendar, Canva, Dropbox.
+Not used today, available any day: Google Calendar, Canva, Dropbox. xAI X search (paid only, skipped 2026-11-14).

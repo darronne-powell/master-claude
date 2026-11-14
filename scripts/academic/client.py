@@ -1,5 +1,5 @@
 """
-Academic Paper Search Client â€” OpenAlex-powered research engine.
+Academic Paper Search Client — OpenAlex-powered research engine.
 
 Primary: OpenAlex API (250M+ papers, excellent search quality, zero auth)
 Supplement: Unpaywall (find free PDFs of paywalled papers via DOI)
@@ -93,7 +93,7 @@ class AcademicClient:
             params = {**params, "mailto": self.EMAIL}
         return params
 
-    # â”€â”€â”€ OpenAlex: Search & Discovery â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    # ─── OpenAlex: Search & Discovery ─────────────────────────────
 
     def search(
         self,
@@ -271,7 +271,7 @@ class AcademicClient:
             "openalex_id": r.get("id", ""),
         } for r in data.get("results", [])]
 
-    # â”€â”€â”€ Unpaywall: Free PDF Finder â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    # ─── Unpaywall: Free PDF Finder ──────────────────────────────
 
     def find_free_pdf(self, doi: str) -> str | None:
         """Find a free legal PDF for a paywalled paper via Unpaywall."""
@@ -292,7 +292,7 @@ class AcademicClient:
         except Exception:
             return None
 
-    # â”€â”€â”€ Full Text Extraction â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    # ─── Full Text Extraction ────────────────────────────────────
 
     def get_full_text(self, url: str) -> str | None:
         """Scrape full article text from a URL via Firecrawl."""
@@ -321,7 +321,7 @@ class AcademicClient:
         except Exception:
             return None
 
-    # â”€â”€â”€ Combined Research Pipeline â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+    # ─── Combined Research Pipeline ──────────────────────────────
 
     def research(
         self,
@@ -333,7 +333,7 @@ class AcademicClient:
         find_free_pdfs: bool = True,
     ) -> dict:
         """
-        Full research pipeline: search â†’ enrich with free PDFs â†’ optionally extract full text.
+        Full research pipeline: search → enrich with free PDFs → optionally extract full text.
 
         Args:
             query: Research topic

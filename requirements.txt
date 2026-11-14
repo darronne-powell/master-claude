@@ -1,4 +1,4 @@
-# Master Claude Workspace â€” Python Dependencies
+# Master Claude Workspace — Python Dependencies
 # Install: pip install -r requirements.txt
 
 # Core HTTP

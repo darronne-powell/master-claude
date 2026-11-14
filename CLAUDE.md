@@ -71,9 +71,9 @@ plans/       build plans from /create-plan
 
 - Writing anything: `reference/writing-style.md` rules apply.
 - A new lead or client: **/new-client**. A job post, brief or RFP to answer: **/proposal**. End of the week: **/weekly-review**.
-- Researching or scraping the web: use **Firecrawl** if it's set up, not the default fetch tools. JavaScript-heavy sites, bot-protected pages, PDFs, cleaner content. [/install updates this line at the Firecrawl cutover.]
-- Scraping social platforms and marketplaces the other tools can't reach (Instagram, TikTok, LinkedIn, Google Maps): **Apify**; the skill sets itself up on first use.
-- Video and YouTube content: **Supadata**. What people are saying on X right now: **x-search**. Papers: **academic**. Newsletters: **substack**. Podcasts: **podcast-search**. Big multi-platform questions (a new niche, a client's market): **deep-research**.
+- Researching or scraping the web: use **Firecrawl** (live since 2026-11-14, 1,000 credits/month plan), not the default fetch tools. JavaScript-heavy sites, bot-protected pages, PDFs, cleaner content. Run scripts with `uv run` from the workspace root.
+- Scraping social platforms and marketplaces the other tools can't reach (Instagram, TikTok, LinkedIn, Google Maps): **Apify** (live since 2026-11-14, free plan, $5 usage/month: check cost before large runs).
+- Video and YouTube content: **Supadata** (live since 2026-11-14, free plan, 100 credits/month). What people are saying on X right now: **x-search**. Papers: **academic**. Newsletters: **substack**. Podcasts: **podcast-search**. Big multi-platform questions (a new niche, a client's market): **deep-research**.
 - Doing anything in a tool you work in (email, calendar, Upwork, invoicing, payments, Drive, Notion, Slack): **connectors**, built into the Claude app. Settings, Connectors, sign in once. Check what's actually on before promising it.
 - Where your week goes and what to automate: **task-audit**.
 - Writing up something you built, or retiring a doc: **/document**.
