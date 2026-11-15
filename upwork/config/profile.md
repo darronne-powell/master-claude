@@ -50,9 +50,11 @@ Master Claude's approved price list is `../context/services.md`; these values co
 |---|---|---|---|---|
 | Upwork contract 44838772 (Mary A) | built | Short AI product promo video, fixed price, Nov 2026 | 5-star feedback | product promos, short ads |
 | Upwork contract 44764651 (Big Sam INFOTECH) | worked on | AI short video edit, fixed price, Oct 2026 | 5-star feedback, client said they'd hire again | short-form edits |
-| (deferred by owner 2026-11-15: collect live video links, confirmed as the owner's own work, BEFORE the first proposal is sent) | | | | |
+| Google Drive portfolio videos, all listed in `../portfolio/links.md` (confirmed as the owner's own work 2026-11-15) | built | Product ads (drinks, food, beauty, skincare, perfume, fashion), UGC-style ads, a HeyGen avatar spokesperson video, cinematic commercials, 3D kids and story animation | none measured | product ads, UGC ads, avatar videos, cinematic commercials, vertical short-form, kids animation |
 
 Proof links per letter: minimum 3, fewer only when no more genuinely match. Live sites first. Every delivered job is added here the day it ships.
+
+Video links in a letter (owner, 2026-11-15): pick from `../portfolio/links.md`. First the one video that best matches the job (a file link, so it plays straight away), then that category's folder link; the Upwork profile link stays in the sign-off. Suggest the picks, then ask the owner which pieces to attach before the letter is final.
 
 ## 7. Reviews that may be quoted (this account only)
 - "Great experience! Darronne did an excellent job with AI video editing and helped bring my ideas to life. Very professional, creative, and attentive to details. I'm happy with the service and highly recommend Darronne for any AI video creation and editing and I will definitely work with Darronne again and again" (AI Short Video Editor, Big Sam INFOTECH)
@@ -78,9 +80,11 @@ Profile stats to quote only after re-reading them live: Job Success, badge, job 
 ## 11. Autonomy
 - Apply mode: "paste and send" (default, and Master Claude's standing rule: Darronne approves every submit and send). Owner deferred the final choice on 2026-11-15 ("will come back to this"): ask again later.
 - Connects floor: 30 (owner, 2026-11-15)
-- Boost cap: 15 (10 for unverified payment) (owner, 2026-11-15: "10 to 15 for boosting")
-- Proposal-count cap: skip jobs with more than 40 proposals; prefer jobs under 30 (owner, 2026-11-15: "more than 30 to 40")
+- Boost cap: 20 Connects on any job, verified or unverified payment. Goal is the #1 spot among boosted proposals; spend whatever reaches #1 as long as it's 20 or less (owner, 2026-11-15)
+- Proposal-count cap: skip jobs with more than 65 proposals (owner, 2026-11-15)
+- Client hire-rate floor: skip clients whose hire rate is under 45%. A first-time client with no hire rate shown yet goes through the new-client check instead (owner, 2026-11-15)
 - Auto-reply: "not wanted" (default)
+- Upwork Dispute Assistance terms for fixed-price proposals: acknowledged by the owner for all future proposals (2026-11-15). No need to ask again.
 - Every routine is created switched off. The owner switches it on and off in the Scheduled list.
 
 ## 12. Hands-on list (what the owner has worked in themselves)
@@ -107,7 +111,7 @@ A "no" is never promised to a buyer. Bring it to the owner first.
 
 ## 13. Delivery kit
 - Report: "every milestone" (owner, 2026-11-15), as a Word file with no name or signature on it
-- After a delivery, push: the next milestone, then a monthly package, then the strongest entry in the client's upsells.md. For the monthly package, don't open with a fixed price: first ask how many videos a month they want and what their budget is, then quote 30% above that budget (see "Budget-first pricing" in the owner's rules in `CLAUDE.md`). (owner, 2026-11-15)
+- After a delivery, push: the next milestone, then a monthly package, then the strongest entry in the client's upsells.md. For the monthly package, don't open with a fixed price: first ask how many videos a month they want and what their budget is, then price it from `../context/services.md`. No markup over their budget (owner removed the 30% rule, 2026-11-15).
 - Other things the owner sells after a job: monthly video packages (Starter, Growth, Scale)
 - Feedback ask: last milestone only, once, never chased
 

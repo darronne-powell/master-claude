@@ -23,7 +23,7 @@ Upwork refuses job opens (`find_jobs action=get`) when an account opens too many
 Most runs find little. Search first; read the heavy files only when there's a job to write.
 1. State file `state/auto-apply-state.json` (create if missing): `last_run` (ISO time) and `seen` (job id, outcome, one-line reason, date; drop entries older than 3 days).
 2. Run the searches. For each keyword in `config/profile.md` section 4: `find_jobs action=search sort=recency limit=10` (10 is the tool's maximum; never pass more). Stop reading a keyword at the first post published before `last_run` minus 30 minutes (24 hours when `last_run` is missing). The broadest keyword gets a second page with the cursor. Also page `find_jobs action=smart_search mode=most_recent days_posted=1` the same way. Drop anything in `seen` or already found this run.
-3. Quick filter from the search fields alone (title, snippet, skills, budget, proposal count, client stats): drop anything on the not-in-lane list or over the proposal-count cap before any open. Keep posts the fields leave open.
+3. Quick filter from the search fields alone (title, snippet, skills, budget, proposal count, client stats): drop anything on the not-in-lane list, over the proposal-count cap, or under the client hire-rate floor before any open. Keep posts the fields leave open.
 4. Nothing left: write `last_run` and `seen`, reply "No fitting new posts this run (N checked)", stop. Read nothing else.
 5. Only then read section 1's files, once per run, and load the proposal tools.
 6. Every post judged goes into `seen` with its outcome.
@@ -40,6 +40,7 @@ Load with ToolSearch before use. First only `list_accounts` and `find_jobs`; `ma
 ## 3. Keep only posts that pass every filter
 - Published in the last 24 hours, `applied` false, nobody hired or offered yet (`activityStat.jobActivity`).
 - Proposal count at or under the cap. Read the exact number; a tier like "50+" isn't enough.
+- Client hire rate at or above the hire-rate floor in `config/profile.md`. A client with no hire rate shown yet (first job) goes to the new-client check below.
 - In one of the owner's lanes. Platform not named in the post: if the post points to a site, check it (`curl -sL -A "Mozilla/5.0" <url>`) for signs of the lane's platform. Match: in lane, and use what you saw in the letter. No match or no site: skip.
 - Not on the not-in-lane list. Open to a freelancer in the owner's country.
 - Not a client on the skip list, not a client with a review saying they refused to pay (unless the job is small and milestone-protected).
@@ -48,7 +49,7 @@ Load with ToolSearch before use. First only `list_accounts` and `find_jobs`; `ma
   2. Not a poster who never hires: 4 or more jobs posted with no hire is a skip.
   3. A real business: a site you can open, a named business, or phone verified.
   4. The budget fits the scope (section 5.4).
-  Unverified payment caps the boost at the lower unverified cap. The owner starts no work until the milestone is funded; this isn't mentioned in the letter.
+  The owner starts no work until the milestone is funded; this isn't mentioned in the letter.
 - **Hard red flags, skip always:** moving off Upwork (WhatsApp, Telegram, email), paying out to anyone, regulated money products, an unpaid test task, many interviews out with no hire after several days.
 
 Rank by fit and client quality (payment verified, spend, rating, hire rate). Apply to every post that passes, best first. No per-run limit. Never stretch a poor fit.
@@ -72,7 +73,7 @@ Before every proposal, read `connects_balance` and `connects_cost` from the job'
    - Skip fixed jobs under the minimum fixed job unless the scope is tiny and fair at the floor rate.
 5. Pick 3 portfolio items and 1 certificate from `get_profile action=list_highlights` that match the job.
 6. `manage_proposals action=create`, no boost. One job at a time: each new preview cancels the last.
-7. **Boost:** aim for a top-4 spot among boosted proposals. Bid the smallest amount that reaches it, at or under the boost cap. If the preview only gives `recommended_connects`, use it when it's under the cap. If top 4 needs more than the cap, don't boost. Re-create the preview with `boost_connects`. Nothing is confirmed in this step. The section 4 floor wins over the boost.
+7. **Boost:** aim for the #1 spot among boosted proposals. Bid the smallest amount that reaches #1, at or under the boost cap. If the preview only gives `recommended_connects`, use it when it's under the cap. If #1 needs more than the cap, don't boost. Re-create the preview with `boost_connects`. Nothing is confirmed in this step. The section 4 floor wins over the boost.
 8. **Apply mode check** (`config/profile.md` section 11):
    - **Chat run, any mode:** show the letter, screening answers, price and boost in code blocks and wait. Save the file (step 9) as DRAFT meanwhile. Confirm only on the owner's "send". If the preview has expired by then, re-create it with the same letter and boost.
    - **Routine run, "scout and draft":** stop here. Save the file with status DRAFT and don't confirm.
