@@ -22,6 +22,7 @@
 - Cinematic AI commercials and story-driven / music videos
 
 ## 3. Not in lane (skip without exception)
+- Website jobs of any kind, including Shopify and WordPress builds, fixes and stores (owner, 2026-11-15: only AI video is bid on; websites are offered only when a client in an existing conversation asks what else Darronne can do)
 - Live filming, on-camera real-actor UGC, physical shoots
 - Pure editing of a client's raw camera footage with no AI generation, when the budget is under the floor
 - Content writing, data entry, design-only jobs (unless a lane above says otherwise)
@@ -98,8 +99,8 @@ Profile stats to quote only after re-reading them live: Job Success, badge, job 
 | Nano Banana and other AI image tools | yes | product stills, characters, start/end frames (owner, 2026-11-15) |
 | Kling | yes | AI video generation (owner, 2026-11-15) |
 | Midjourney | yes | AI images (owner, 2026-11-15) |
-| Shopify | yes | (owner, 2026-11-15) |
-| WordPress | yes | (owner, 2026-11-15) |
+| Shopify | yes, secondary | Working knowledge, not a main skill. Never bid on; offer only when a client asks what else Darronne does (owner, 2026-11-15) |
+| WordPress | yes, secondary | Working knowledge, not a main skill. Never bid on; offer only when a client asks what else Darronne does (owner, 2026-11-15) |
 | Squarespace, Wix, Webflow | (ask) | not confirmed yet |
 
 A "no" is never promised to a buyer. Bring it to the owner first.

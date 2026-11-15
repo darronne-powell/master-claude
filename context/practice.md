@@ -17,7 +17,7 @@ From the Upwork profile, in order of fit:
 
 Best-fit client for the current goals: a brand or agency with a real ad budget and ongoing need, i.e. a monthly package prospect. Watch for: clients with a good freelancer rating and real spend history on Upwork.
 
-Avoid: budgets under $25 per finished video, clients asking for free samples, off-platform contact or payment, low client ratings.
+Avoid: website jobs (Shopify, WordPress), since only AI video is sold; websites come up only if a client asks what else Darronne does. Also avoid budgets under $25 per finished video, clients asking for free samples, off-platform contact or payment, low client ratings.
 
 ## How work comes in
 

@@ -3,6 +3,7 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-15 · darronne · sales/decision · AI video only: no proposals for Shopify/WordPress/website jobs; websites offered only when a client in conversation asks
 - 2026-11-15 · darronne · workspace/ship · Upwork system setup questions done (Q4 proof links deferred to before first proposal, Q14 mode deferred, stays paste-and-send); Q15: Friday, 15-20 proposals/week, earnings tracked (weekly-numbers file git-ignored)
 - 2026-11-15 · darronne · sales/decision · Upwork setup Q13: no weekly Connects limit, reserve 30, boost cap 15 (10 unverified), skip jobs over 40 proposals (prefer under 30)
 - 2026-11-15 · darronne · workspace/decision · Upwork setup Q12: Chrome profile "Darronne", Claude extension connected; client logins kept in Darronne's own Google Doc, handled by Darronne only

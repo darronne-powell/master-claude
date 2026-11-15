@@ -14,7 +14,8 @@
 - AI avatars and presenters: HeyGen
 - Editing, captions, music, sound, multi-format delivery: CapCut
 - Social scheduling: Hootsuite
-- Also hands-on (confirmed 2026-11-15): After Effects, Premiere Pro, Nano Banana and other AI image tools, Kling, Midjourney, Shopify, WordPress
+- Also hands-on (confirmed 2026-11-15): After Effects, Premiere Pro, Nano Banana and other AI image tools, Kling, Midjourney
+- Secondary skill, not sold proactively: Shopify and WordPress websites. Never bid on website jobs; offer only when a client in conversation asks what else Darronne does (2026-11-15).
 - Scriptwriting, AI voice-over, hook-first ad creative for Meta, TikTok and YouTube; repurposing long video into shorts
 - Experience 2023–2025 across ecommerce ads, short-form social systems, avatar videos, explainers, course videos, story and music videos (see resume in `context/import/`). Confirmed accurate by Darronne.
 
