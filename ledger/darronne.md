@@ -3,6 +3,7 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-15 · darronne · workspace/build · Added the full Upwork-claude-system package unchanged in upwork/ (23 files, verified identical); profile.md prefilled from context + live Upwork highlights; CLAUDE.md routes Upwork work to it
 - 2026-11-14 · darronne · workspace/ship · Research stack live and tested: uv runtime (Python 3.12), Firecrawl, Supadata, Apify; xAI skipped (paid only); fixed garbled characters in .env/.env.example/requirements/academic client
 - 2026-11-13 · darronne · sales/decision · Payment rule clarified (Upwork only, any contract type); turnaround 2-5 days by length; long-form YouTube priced $150 edit-only / $300 full / $450-600 premium
 - 2026-11-13 · darronne · workspace/decision · Tool list is partial (more premium tools in use): jobs naming unlisted tools stay in play; confirm tool before a proposal names it

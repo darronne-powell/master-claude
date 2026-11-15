@@ -65,10 +65,12 @@ docs/        documentation for what you build, routed by docs/_index.md
 reference/   how to use this workspace, writing rules, where keys come from
 outputs/     everything else produced
 plans/       build plans from /create-plan
+upwork/      the Upwork system: its own CLAUDE.md, rulebooks, skills, routines, profile, proposals, buyer folders, state
 ```
 
 ## Tool routing
 
+- **All Upwork work runs through the Upwork system in `upwork/`** (added 2026-11-15, copied in full and unchanged from Darronne's "Upwork-claude-system" package). Job links and "apply to this", buyer messages, "take over" on a client site, "this milestone is done", profile updates and weekly numbers: follow `upwork/CLAUDE.md` and the rulebook or skill it names. Its owner values live in `upwork/config/profile.md`, filled from this workspace's context; keep both in step when a rate, lane or rule changes. Its proposals and buyer folders are written inside `upwork/`; also keep the board in `clients/_index.md` current. On this Windows machine, wherever its files say `python3`, run `uv run python` from the workspace root.
 - Writing anything: `reference/writing-style.md` rules apply.
 - A new lead or client: **/new-client**. A job post, brief or RFP to answer: **/proposal**. End of the week: **/weekly-review**.
 - Researching or scraping the web: use **Firecrawl** (live since 2026-11-14, 1,000 credits/month plan), not the default fetch tools. JavaScript-heavy sites, bot-protected pages, PDFs, cleaner content. Run scripts with `uv run` from the workspace root.
