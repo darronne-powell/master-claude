@@ -3,6 +3,12 @@
 > Darronne P's work record. One row per meaningful unit of work, newest at the top, written as it happens.
 > Format: `- YYYY-MM-DD HH:MM · <seat> · <area>/<type> · <one-line summary>`
 
+- 2026-11-15 · darronne · workspace/ship · Upwork system setup questions done (Q4 proof links deferred to before first proposal, Q14 mode deferred, stays paste-and-send); Q15: Friday, 15-20 proposals/week, earnings tracked (weekly-numbers file git-ignored)
+- 2026-11-15 · darronne · sales/decision · Upwork setup Q13: no weekly Connects limit, reserve 30, boost cap 15 (10 unverified), skip jobs over 40 proposals (prefer under 30)
+- 2026-11-15 · darronne · workspace/decision · Upwork setup Q12: Chrome profile "Darronne", Claude extension connected; client logins kept in Darronne's own Google Doc, handled by Darronne only
+- 2026-11-15 · darronne · sales/decision · Upwork setup Q9-Q11: Upwork chat only; work offered in EN/DE/ES/FR; max milestone 7 working days; report every milestone; budget-first pricing (ask budget + video count, quote 30% above (owner changed from 10%), price list is the minimum)
+- 2026-11-15 · darronne · sales/decision · Upwork setup Q6-Q8: default voice; quotes follow Master Claude price list (owner's rule added to upwork/CLAUDE.md); target = monthly packages; free step = 3-line hook or short paid sample
+- 2026-11-15 · darronne · workspace/decision · Upwork setup Q3: hands-on confirmed for After Effects, Premiere, Nano Banana/AI image tools, Kling, Midjourney, Shopify, WordPress
 - 2026-11-15 · darronne · workspace/build · Added the full Upwork-claude-system package unchanged in upwork/ (23 files, verified identical); profile.md prefilled from context + live Upwork highlights; CLAUDE.md routes Upwork work to it
 - 2026-11-14 · darronne · workspace/ship · Research stack live and tested: uv runtime (Python 3.12), Firecrawl, Supadata, Apify; xAI skipped (paid only); fixed garbled characters in .env/.env.example/requirements/academic client
 - 2026-11-13 · darronne · sales/decision · Payment rule clarified (Upwork only, any contract type); turnaround 2-5 days by length; long-form YouTube priced $150 edit-only / $300 full / $450-600 premium

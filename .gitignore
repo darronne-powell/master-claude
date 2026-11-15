@@ -32,3 +32,6 @@ node_modules/
 
 # Per-machine seat identity
 .seat
+
+# Upwork system: earnings are tracked here, so it stays on this machine
+upwork/state/weekly-numbers.md

@@ -21,6 +21,10 @@
 
 Long-form pricing set 2026-11-13 from Upwork posts (faceless channels at $25–40/video for simple stills are below the floor and skipped; real long-form budgets $250–850) and 2026 guides ($100–500 basic edit, $500–1,500 full 10–20 min production). Positioned mid-market: Darronne is not a beginner on long-form quality.
 
+## Budget-first pricing (Darronne, 2026-11-15)
+
+Before any price goes to a buyer, get their budget (and for packages, how many videos a month). Quote 30% above their budget (e.g. $400 budget → $520): a stretch they can still meet, never under it. The prices on this page are the minimum: below-list budgets get the list price or a smaller scope.
+
 ## Monthly packages (retainers)
 
 | Package | What's in it | Price | Per video |

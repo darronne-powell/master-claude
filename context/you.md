@@ -14,6 +14,7 @@
 - AI avatars and presenters: HeyGen
 - Editing, captions, music, sound, multi-format delivery: CapCut
 - Social scheduling: Hootsuite
+- Also hands-on (confirmed 2026-11-15): After Effects, Premiere Pro, Nano Banana and other AI image tools, Kling, Midjourney, Shopify, WordPress
 - Scriptwriting, AI voice-over, hook-first ad creative for Meta, TikTok and YouTube; repurposing long video into shorts
 - Experience 2023–2025 across ecommerce ads, short-form social systems, avatar videos, explainers, course videos, story and music videos (see resume in `context/import/`). Confirmed accurate by Darronne.
 
@@ -21,6 +22,7 @@
 
 - **Solo.** Every stage in-house, no subcontractors (`context/collaborators.md`).
 - **30+ hours a week**, full-time, will scale up as work comes in.
+- **Clients:** Upwork chat only, no voice or video calls. Client work offered in English, German, Spanish and French (2026-11-15).
 - Turnaround depends on length: short videos 2–3 days, longer ones up to 5 days. Two revision rounds.
 - Communication with Claude: plain and direct; often dictated, so read for meaning over exact wording.
 

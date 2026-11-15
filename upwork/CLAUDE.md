@@ -77,4 +77,6 @@ If one is missing when a job needs it, say which one and give the steps to switc
 
 Add a dated line here, in the owner's words, when they say "from now on..." or correct the same thing twice. These win over the skills and rulebooks. "What never happens" above still holds.
 
-- (none yet)
+- 2026-11-15: Price from our own listing. Every first proposal and every quote to a buyer uses the Master Claude price list (`../context/services.md`), and once a buyer is talking we work toward the monthly packages from our plan. This wins over the price formulas in the rulebooks.
+- 2026-11-15: The free thing in every letter is a 3-line hook idea, or a short paid sample. No unpaid sample videos.
+- 2026-11-15: Budget-first pricing. Before giving any price, find out the buyer's budget (and for a monthly package, how many videos a month they want). Read it from the job post when it's there; otherwise ask for it before quoting. Then quote 30% above their budget (owner's figure), so it's a stretch they can still meet. Never quote under their budget. The price list in `../context/services.md` is the minimum: if their budget is below the list price for that work, quote the list price or offer smaller scope, never less.
