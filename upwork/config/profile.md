@@ -111,7 +111,7 @@ A "no" is never promised to a buyer. Bring it to the owner first.
 
 ## 13. Delivery kit
 - Report: "every milestone" (owner, 2026-11-15), as a Word file with no name or signature on it
-- After a delivery, push: the next milestone, then a monthly package, then the strongest entry in the client's upsells.md. For the monthly package, don't open with a fixed price: first ask how many videos a month they want and what their budget is, then price it from `../context/services.md`. No markup over their budget (owner removed the 30% rule, 2026-11-15).
+- After a delivery, push: the next milestone, then a monthly package, then the strongest entry in the client's upsells.md. The monthly package is offered at its price-list price from `../context/services.md` (Starter $360 / Growth $560 / Scale $850). No asking for budget first and no markup (owner, 2026-11-15).
 - Other things the owner sells after a job: monthly video packages (Starter, Growth, Scale)
 - Feedback ask: last milestone only, once, never chased
 

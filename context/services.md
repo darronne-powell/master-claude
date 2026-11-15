@@ -23,7 +23,7 @@ Long-form pricing set 2026-11-13 from Upwork posts (faceless channels at $25–4
 
 ## Package quotes (Darronne, 2026-11-15)
 
-Before quoting a monthly package, ask how many videos a month the buyer wants and their budget, then price from this page. No markup over the buyer's budget (the 30% rule was removed the same day).
+Monthly packages are quoted straight from the table below. No asking for budget first and no markup over the buyer's budget (both removed the same day).
 
 ## Monthly packages (retainers)
 
